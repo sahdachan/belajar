@@ -1,5 +1,5 @@
 .red {
-    color: red;
+    color: rgb(255, 177, 177);
   }
   
   .skyblue-bg {
@@ -8,7 +8,7 @@
   
   .fancy {
     font-weight: bold;
-    text-shadow: 4px 4px 3px #77f;
+    text-shadow: 4px 4px 3px rgb(161, 4, 4);
   }
 
 /* Menargetkan seluruh tipe elemen */
